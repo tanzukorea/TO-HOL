@@ -15,6 +15,9 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 - Spring Boot 개발을 위한 IDE (InteliJ, VScode, etc..)
 <br/><br/>
 
+## Tanzu Observability란?
+[What is TO?](https://github.com/tanzukorea/TO-HOL/blob/main/0.%20TO-Introduction.md)
+
 ## Hands-On-Labs 순서
 1. [Tanzu Observability Trial 계정 신청](https://github.com/tanzukorea/TO-HOL/blob/main/Trial_%EA%B3%84%EC%A0%95_%EC%8B%A0%EC%B2%AD.md) <br/>
 2. [Spring boot와의 연동](https://github.com/tanzukorea/TO-HOL/blob/main/Spring_Boot_Integration.md) <br/>
