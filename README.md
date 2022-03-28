@@ -26,5 +26,6 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 2. [Spring boot와의 연동](https://github.com/tanzukorea/TO-HOL/blob/main/Spring_Boot_Integration.md) <br/>
 3. [대시보드 살펴보기](https://github.com/tanzukorea/TO-HOL/blob/main/Dashboard.md)
 4. 대시보드 Customization <br/>
-5. Anomaly Detection <br/>
-6. 알림 설정 <br/>
+5. 알림 설정 <br/>
+6. Anomaly Detection <br/>
+
