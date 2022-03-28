@@ -9,6 +9,12 @@
 **3. 로그인 화면으로 이동 후 비밀번호를 세한 뒤 register 합니다.**<br/><br/>
 
 **4. 이제 Tanzu Observability 를 시작하실 수 있습니다!**<br/><br/>
-<img width="2304" alt="image" src="https://user-images.githubusercontent.com/14763080/160317761-1eadef6a-8211-44bf-aa62-b14889a1e1a3.png">
+<img width="2304" alt="image" src="https://user-images.githubusercontent.com/14763080/160317761-1eadef6a-8211-44bf-aa62-b14889a1e1a3.png"><br/>
 
 
+**참고 - Trial 계정 제한**    
+- Data Retention은 5일까지 가능합니다    
+- 50 Pps => 메트릭   
+- 25 sps (spans per second) -> OpenTracing 및 Sleuth 포함    
+- 10 dps (distributions per second) => 히스토그램    
+- 30일동안 사용 가능   
