@@ -9,6 +9,9 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 <br/>
 
 ## Objective
+1. Tanzu Observability에 대해 알아봅니다<br/>
+2. Tanzu Observability 환경을 세팅합니다<br/>
+3. Spring Boot 기반 앱과 Tanzu Observability를 연동합니다<br/>
 
 ## Required Artifacts
 - Tanzu Observability Customer 혹은 Trial 계정
