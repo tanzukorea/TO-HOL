@@ -103,5 +103,7 @@ token 및 Uri 정보는 TO 사이트에서 확인 가능합니다<br/>
 <img width="903" alt="image" src="https://user-images.githubusercontent.com/14763080/160329732-5f258c02-bce2-4926-bfdd-693d02a5854b.png">
 
 
-
+**5. Application Dashboard 확인** <br/>
+앱을 동작시킨 후, Tanzu Observability에 들어가 Applications -> Service Dashboard를 클릭하면 실시간으로 현황을 볼 수 있습니다.<br/>
  
+<img width="2404" alt="image" src="https://user-images.githubusercontent.com/14763080/160330192-c74603c6-b3e9-4d47-a725-60012ab40f19.png">
