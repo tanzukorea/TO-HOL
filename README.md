@@ -1,6 +1,6 @@
 # TO-HOL
 
-(VMware Tanzu Observability (TO) - Hands-On-Lab)
+VMware Tanzu Observability (TO) - Hands-On-Labs
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/14763080/160314688-d67bb11f-28d3-49e5-91a1-91748faf7fc7.png">
 
 ## Introduction
