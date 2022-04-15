@@ -6,6 +6,8 @@
 TAS는 Application 관리를 Tile을 통해서 하고 있습니다. 먼저 아래의 주소에서 nozzle tile을 다운로드 받습니다.
 https://network.pivotal.io/products/wavefront-nozzle
 
+![](images/tas-to0.png)
+
 ### 2. TAS Ops Manager에 로그인
 TAS 환경의 Ops Manager에 로그인을 합니다. 
 
