@@ -106,3 +106,4 @@ token 및 Uri 정보는 TO 사이트에서 확인 가능합니다<br/>
 **5. Application Dashboard 확인** <br/>
 앱을 동작시킨 후, Tanzu Observability에 들어가 Applications -> Service Dashboard를 클릭하면 실시간으로 현황을 볼 수 있습니다.<br/>
 ![](images/sb-to5.png)
+ 
