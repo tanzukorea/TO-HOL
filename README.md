@@ -24,7 +24,7 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 [What is TO?](https://github.com/tanzukorea/TO-HOL/blob/main/0.%20TO-Introduction.md)
 
 ## Hands-On-Labs 순서
-1. [Tanzu Observability Trial 계정 신청](https://github.com/tanzukorea/TO-HOL/blob/main/Trial_%EA%B3%84%EC%A0%95_%EC%8B%A0%EC%B2%AD.md) <br/>
+1. [Tanzu Observability Trial 계정 신청](./Trial/) <br/>
 1. [다양한 제품과의 연동](./Integrations/) <br/>
 1. [대시보드 살펴보기](https://github.com/tanzukorea/TO-HOL/blob/main/Dashboard.md)
 1. 대시보드 Customization <br/>
