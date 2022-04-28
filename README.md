@@ -25,8 +25,8 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 
 ## Hands-On-Labs 순서
 1. [Tanzu Observability Trial 계정 신청](./Trial/) <br/>
+1. [대시보드 설정](./Dashboard/) <br/>
+1. [알림 설정](./Alert/) <br/>
+1. [애플리케이션 보기](./Application/) <br/>
 1. [다양한 제품과의 연동](./Integrations/) <br/>
-1. [대시보드 Customization](./Dashboard/) <br/>
-1. 알림 설정 <br/>
-1. Anomaly Detection <br/>
 
