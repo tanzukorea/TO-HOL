@@ -25,6 +25,7 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 
 ## Hands-On-Labs 순서
 1. [Tanzu Observability Trial 계정 신청](./Trial/) <br/>
+1. [Wavefront Proxy 설치](./Proxy/) <br/>
 1. [대시보드 설정](./Dashboard/) <br/>
 1. [알림 설정](./Alert/) <br/>
 1. [애플리케이션 보기](./Application/) <br/>
