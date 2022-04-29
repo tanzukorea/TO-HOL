@@ -15,7 +15,7 @@ cd spring-petclinic
 ./mvnw spring-boot:run
 ~~~
 여기까지 진행 후 localhost:8080으로 접근 시 다음 화면이 나타나면 빌드 성공입니다
-![](Images/sb-to0.png)
+![](./images/sb-to0.png)
 
 ## TO에 데이터 전송
 **1. pom.xml에 dependency추가**
@@ -43,7 +43,7 @@ cd spring-petclinic
  ~~~
  
  wavefront version의 경우, Spring Boot와의 Compatibility 참고가 필요합니다.
- ![](Images/sb-to1.png)
+ ![](./images/sb-to1.png)
 
  
 **3. Spring Cloud Sleuth 또는 OpenTracing을 사용을 위한 Dependency 추가**<br/>
@@ -86,12 +86,12 @@ pom.xml에 다음 코드 추가
 <br/>
 token 및 Uri 정보는 TO 사이트에서 확인 가능합니다<br/>
 **1) https://longboard.wavefront.com/ 접속 -> 상단 Integration 클릭 -> Spring Boot 검색**
-![](Images/sb-to2.png)
+![](./images/sb-to2.png)
 
 **2) Spring Boot 클릭 후, Setup 정보 확인**<br/>
 
 **Option 1. Direct Ingestion of Metrics<br/>**
-![](Images/sb-to3.png)
+![](./images/sb-to3.png)
 위 코드를 복사해 application.properties에 붙여넣기 합니다.<br/>
 
 
@@ -100,10 +100,9 @@ token 및 Uri 정보는 TO 사이트에서 확인 가능합니다<br/>
 **1) Wavefront Proxy를 설치합니다.<br/>**
     - 다음 링크 참고 : https://longboard.wavefront.com/proxies/add <br/><br/>
 **2)코드를 복사해 application.properties에 붙여넣기 합니다.**<br/>
-![](Images/sb-to4.png)
+ ![](./images/sb-to4.png)
 
 
 **5. Application Dashboard 확인** <br/>
 앱을 동작시킨 후, Tanzu Observability에 들어가 Applications -> Service Dashboard를 클릭하면 실시간으로 현황을 볼 수 있습니다.<br/>
-![](Images/sb-to5.png)
- 
+![](./images/sb-to5.png)
