@@ -12,9 +12,12 @@
 ![](images/trial-2.png)
 
 
+Trial 계정 신청 Lab을 정상적으로 완료하셨습니다.
+
 **참고 - Trial 계정 제한**    
 - Data Retention은 5일까지 가능합니다    
 - 50 Pps => 메트릭   
 - 25 sps (spans per second) -> OpenTracing 및 Sleuth 포함    
 - 10 dps (distributions per second) => 히스토그램    
 - 30일동안 사용 가능   
+

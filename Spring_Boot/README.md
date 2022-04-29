@@ -4,5 +4,3 @@ Tanzu Observability는 많은 제품과 연동이 되어 있어 쉽게 설정할
 
 1. [테스트 애플리케이션 연동](./Integration.md) <br/>
 1. [서비스 맵 조회](./Map.md) <br/>
-1. [애플리케이션 대시보드 조회](./App_Dashboard.md) <br/>
-1. [Tracing 확인](./Tracing.md) <br/>
