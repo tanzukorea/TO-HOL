@@ -3,7 +3,8 @@
 * Helm 3
 
 ## 연동 방법
-### 1.Tanzu Observability 사이트에 접속합니다.
+### 1.Get Started
+Tanzu Observability 사이트에 접속해, 상단 Get Started Menu를 클릭합니다. <br/>
 Monitor Your Containers 에서 Kubernetes를 선택합니다.
 ![](images/k8s-01.png)
 
