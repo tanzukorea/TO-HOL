@@ -27,7 +27,6 @@ VMware Tanzu Observability (TO) - Hands-On-Labs
 
 ## Hands-On-Labs 순서
 1. [Tanzu Observability Trial 계정 신청](./Trial/) <br/>
-1. [Wavefront Proxy 설치](./Proxy/) <br/>
 1. [Kubernetes 연동 및 대시보드/차트 설정](./Kubernetes/) <br/>
 1. [Spring Boot 연동 및 대시보드/차트 설정](./Spring_Boot/) <br/>
 1. [기타 제품과의 연동](./Others/) <br/>
