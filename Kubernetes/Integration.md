@@ -14,6 +14,7 @@ Install in Tanzu Cluster 를 클릭하면, 아래 Helm을 이용한 Quick Instal
 <br/>
 Cluster Integration이 성공적으로 완료되면 다음 화면이 표시됩니다.
 ![](images/k8s-03.png)
+
 <br/>
 
 Kubernetes 연동 Lab을 정상적으로 완료하셨습니다.
