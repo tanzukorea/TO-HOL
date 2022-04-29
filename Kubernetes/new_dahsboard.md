@@ -6,7 +6,6 @@
 
 ### 2. 원하는 항목을 선택해 추가
 아래와 같이, 원하는 항목을 선택해 대시보드를 구성합니다. <br/>
-![](images/new-02.png)
 ![](images/new-03.png)
 ![](images/new-04.png)
 예시에서는 Kubernetes Summary 및 Health Check 두가지 섹션을 구성했습니다. <br/>
