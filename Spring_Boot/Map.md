@@ -22,10 +22,11 @@ Format 탭에서 몇 가지 설정을 변경했습니다. 우측 상단 Save를 
 ![](images/dashboard-04.png)
 
 ### 3. 오퍼레이션 대시보드
+To Be Updated <br/>
 
 ### 4.Trace 보기
+To Be Updated <br/>
 
-
-
+<br/><br/>
 
 애플리케이션 맵 설정 Lab을 정상적으로 완료하셨습니다.
