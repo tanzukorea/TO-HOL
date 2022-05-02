@@ -11,18 +11,33 @@ Spring Boot 기반의 애플리케이션에 대한 맵 조회가 가능합니다
 ![](images/map-02.png)
 
 ### 2. 서비스 대시보드
-서비스 대시보드 메뉴로 접근하면 다음과 같은 화면을 확인 가능합니다.
+상단 메뉴에서 Application > Service Dashboard로 접근합니다. <br/>
+서비스 대시보드 메뉴로 접근하면 다음과 같은 화면을 확인 가능합니다. <br/>
 
-
-점 3개를 클릭해 차트 수정, export를 수행합니다. 이번 Lab에서는 대시보드 수정 기능을 통해 새로운 대시보드를 생성해 보겠습니다.
+- 점 3개를 클릭해 차트 수정, export를 수행합니다. 이번 Lab에서는 대시보드 수정 기능을 통해 새로운 대시보드를 생성해 보겠습니다.
 ![](images/dashboard-02.png)
-Format 탭에서 몇 가지 설정을 변경했습니다. 우측 상단 Save를 클릭하고, 새로운 대시보드로 저장합니다.
+- Format 탭에서 몇 가지 설정을 변경했습니다. 우측 상단 Save를 클릭하고, 새로운 대시보드로 저장합니다.
 ![](images/dashboard-03.png)
-새 대시보드를 저장하면 Dashboard > My Dashboard에서도 확인이 가능합니다.
+- 새 대시보드를 저장하면 Dashboard > My Dashboard에서도 확인이 가능합니다.
 ![](images/dashboard-04.png)
 
 ### 3. 오퍼레이션 대시보드
-To Be Updated <br/>
+상단 메뉴에서 Application > Operation Dashboard로 접근합니다. <br/>
+대시보드 메뉴로 접근하면 다음과 같은 화면을 확인 가능합니다. <br/>
+
+- 기본 Overview는 다음과 같습니다. 
+![](images/ops-01.png)
+기본적인 Requests / Error / Duration이 그래프와 함께 표시되며, 상단에서 Application, Service, Operation을 선택해 특정 리소스에 대한 정보를 확인합니다. <br/>
+예시에서는 Operation을 DeliveryController.dispatch로 변경해 보겠습니다 <br/>
+![](images/ops-02.png)
+선택 후 변경된 화면입니다.
+![](images/ops-03.png)
+
+이 대시보드들은 Kubernetes 대시보드와 동일하게 편집 및 추가가 가능합니다. 각각의 대시보드에 표시되는 연필 모양 편집 아이콘을 클릭하면 편집 및 저장이 가능합니다. <br/>
+
+### 4. 오퍼레이션 대시보드에서 Anomaly Detection 수행
+Operation Dashboard에서 Line Chart를 하나 선택합니다. <br/>
+
 
 ### 4.Trace 보기
 To Be Updated <br/>
