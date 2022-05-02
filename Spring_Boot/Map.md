@@ -34,14 +34,9 @@ Spring Boot 기반의 애플리케이션에 대한 맵 조회가 가능합니다
 ![](images/ops-03.png)
 
 이 대시보드들은 Kubernetes 대시보드와 동일하게 편집 및 추가가 가능합니다. 각각의 대시보드에 표시되는 연필 모양 편집 아이콘을 클릭하면 편집 및 저장이 가능합니다. <br/>
-
-### 4. 오퍼레이션 대시보드에서 Anomaly Detection 수행
-Operation Dashboard에서 Line Chart를 하나 선택합니다. <br/>
-
-
-### 4.Trace 보기
-To Be Updated <br/>
-
-<br/><br/>
+예시에서는 Error에 있는 막대 그래프를 편집해 보겠습니다.
+![](images/ops-04.png)
+Legend에서 일부 설정을 추가했습니다. 이와 같이 원하는 방식으로 대시보드를 커스터마이징 하고 저장 가능합니다.
+![](images/ops-05.png)
 
 애플리케이션 맵 설정 Lab을 정상적으로 완료하셨습니다.
